@@ -2,7 +2,7 @@
 distribution live
 
 # Server:
-server-version SERVER_VERSION
+server-version tti-dev
 shard-low-pop 100
 shard-mid-pop 150
 
